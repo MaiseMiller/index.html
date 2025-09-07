@@ -45,8 +45,7 @@
                         <div class="form-group">
                             <input type="radio" id=" gender" name="gender">
                             <label>Male</label>
-                            
-                        </div>
+                                </div>
                         <div class="form-group">
                             <input type="radio" id=" gender" name="gender">
                             <label>Female</label>
@@ -249,8 +248,7 @@
                                 <p>
                                     <input type="checkbox" id="newsletter" name="newsletter">
                                     <label>Subscribe to our newsletter</label>
-                                    
-                                </p>
+                                      </p>
                             </div>
                             <div class="form group">
                                 <p>
@@ -263,9 +261,7 @@
                                     <input type="checkbox" id="Policy" name="Policy">
                                     <label>I agree to the Privacy Policy</label>
                                 </p>
-                            </div>
-
-                               
+                            </div>      
                     </fieldset>
                     <fieldset>
                         <div class="form-group">
