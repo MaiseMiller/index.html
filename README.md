@@ -211,13 +211,13 @@
                              <div class="form group">
                                 <label>Tell us about yourself:</label>
                                <p>
-                                <textarea name="message" style="width: 400px;height: 100px;">Write a brief description about yourself...</textarea>
+                                <textarea name="bio" rows="4"Cols="50">Write a brief description about yourself...</textarea>
                                </p>
                             </div>
                             <div class="form group">
                             <label>Suggestions for improvement:</label>
                                <p>
-                                <textarea name="message" style="width: 400px;height: 100px;">Any suggestions or feedback...</textarea>
+                                <textarea name="suggestions" rows="4"Cols="50">Any suggestions or feedback...</textarea>
                                </p>
                             </div>
                             <div class="form group">
